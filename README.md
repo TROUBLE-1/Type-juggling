@@ -1,9 +1,8 @@
 # Type-juggling
-There are 4 four exercise to slove where you have to compare your input to string '0'.
+There are 6 exercise to slove where you have to compare your input to string '0'.
+these exercise will give you the understanding of type juggling.
 
 unzip the file into your web root.
-
-There are total 6 excersise form which first 4 will give you the basic understanding of type juggling
 
 some excersise can be achived by using scripts.
 If you are not able to create it yourself you can used that solutions.zip file.
